@@ -1,0 +1,9 @@
+read x ; { trabalho prático de compiladores }
+if 0 < x then
+fact := 1 ; { UFC }
+repeat { compiladores }
+fact := fact * x ;
+x := x - 1 ;
+until x = 0 ; { a identação de Tiny requer que se use espaços para cada caractere }
+write fact
+end

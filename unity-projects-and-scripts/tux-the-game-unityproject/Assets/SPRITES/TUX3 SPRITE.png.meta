@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6f36e07718fc7b7439373e3a22afb8b9
+timeCreated: 1432092854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TUX3 SPRITE_0
+    21300002: TUX3 SPRITE_1
+    21300004: TUX3 SPRITE_2
+    21300006: TUX3 SPRITE_3
+    21300008: TUX3 SPRITE_4
+    21300010: TUX3 SPRITE_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TUX3 SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 782
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUX3 SPRITE_1
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 92
+        width: 810
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUX3 SPRITE_2
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 47
+        width: 765
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUX3 SPRITE_3
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 20
+        width: 785
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUX3 SPRITE_4
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 41
+        width: 810
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUX3 SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 0
+        width: 761
+        height: 956
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
